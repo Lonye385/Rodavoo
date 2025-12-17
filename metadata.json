@@ -1,0 +1,9 @@
+{
+  "name": "RodavoApp Final",
+  "description": "Assistente de navegação avançado com análise de dashcam e visualização de rotas via Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
